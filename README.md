@@ -1,6 +1,6 @@
 # android-castle
 
-Android-specific dotfiles to be used with <https://gitlab.com/johnivore/basic-castle>.
+Android-specific dotfiles to be used with <https://github.com/johnivore/basic-castle>.
 
 
 ## Styling Termux
